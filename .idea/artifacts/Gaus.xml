@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Gaus">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gaus</output-path>
+    <root id="archive" name="Gaus.jar">
+      <element id="module-output" name="Gaus" />
+    </root>
+  </artifact>
+</component>
